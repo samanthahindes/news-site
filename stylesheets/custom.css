@@ -1,6 +1,5 @@
 /*your custom CSS here*/
 .heading{
-  background-image: url(../img/heading.jpg);
   height: 400px;
   width: 100%;
   background-repeat: no-repeat;
@@ -19,7 +18,6 @@ h1{
 }
 
 body{
-  background-image: url(../img/metal.jpg);
   background-repeat: no-repeat;
   background-position: center 400px;
   background-color: #999;
