@@ -1,0 +1,31 @@
+/*your custom CSS here*/
+.heading{
+  background-image: url(../img/heading.jpg);
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: 20px;
+  background-color: #003366;
+}
+
+h1{
+  color: #white
+  font-size: 50px;
+  text-align: center;
+  font-family: Arial, Verdana, sans-seriff;
+  width: 100%;
+  padding-top: 194px;
+}
+
+body{
+  background-image: url(../img/metal.jpg);
+  background-repeat: no-repeat;
+  background-position: center 400px;
+  background-color: #999;
+}
+
+
+img{
+  width: 100%;
+}
